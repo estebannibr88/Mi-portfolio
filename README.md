@@ -9,14 +9,13 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del Pentesting.
 
 ## 📊 Estadísticas
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloykaperez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- https://github.com/Ileriayo/markdown-badges -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact&theme=tokyonight&langs_count=10&hide=html,css&exclude_repo=repo1,repo2)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 ## 👩‍💻 Lenguajes de Programación
 
